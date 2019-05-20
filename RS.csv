@@ -1,0 +1,31 @@
+Cell Num,Sector,Band
+0,Alpha,2300C1
+1,Beta,2300C1
+2,Gamma,2300C1
+3,Alpha,1800
+4,Beta,1800
+5,Gamma,1800
+6,Alpha,850
+15,Beta,850
+24,Gamma,850
+7,Alpha,850
+16,Beta,850
+25,Gamma,850
+12,Alpha,2300C2
+13,Beta,2300C2
+14,Gamma,2300C2
+9,Alpha,2300C2_4th
+10,Beta,2300C2_4th
+11,Gamma,2300C2_4th
+20,Alpha,2300C1_4TH
+18,Beta,2300C1_4TH
+19,Gamma,2300C1_4TH
+2,Alpha,2300C1
+0,Beta,2300C1
+1,Gamma,2300C1
+14,Alpha,2300C2
+12,Beta,2300C2
+13,Gamma,2300C2
+27,Alpha,850 4th
+28,Beta,850 4th
+29,Gamma,850 4th
